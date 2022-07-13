@@ -13,7 +13,6 @@ The Funtastic Game is web based game built with HTML, CSS and JavaScript. it is 
 <li>Skeleton Plane</li>
 <li>Surface Plane</li>
 </ul>
-<li>Features</li>
 <li>Future Enhancement</li>
 <li>Performance Testing</li>
 <li>Deployment</li>
