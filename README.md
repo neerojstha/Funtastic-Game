@@ -47,4 +47,50 @@ user should be able to play game with their devices.
 <br>
 user would be able to play in mobile devices.
 
+<ul>
+<li>Skeleton Plane</li>
+<ul>
+<img src="assets/images/eight).png">
+<li>I used baslamic wireframe to designed this website.</li>
+
+
+<ul>
+<li>Surface Design</li>
+<ul>
+<li>Nice and attractive hero image would be added.</li>
+<li>light cover text added with the mantra brand name.</li>
+<li>final outcome of the website design is satisfactory.</li></ul></ul>
+
+
+<h2>Future Enhancement</h2>
+<hr>
+<ul>
+<li>would better to use timer in future.</li>
+<li>i would like to use flexboxfroggy to design better layout.</li>
+<li>Quiz app using javascript .</li></ul>
+<h2>Performance/Testing</h2>
+<hr>
+<ul>
+<li>This pages tested in different browers such as chrome, firefox, safari and ms egde and working perfectly fine.</li>
+<li>pages are clear, good looking and user friendly.</li>
+<li>form section is userfriendly and all section required requested information to complete booking system.</li>
+</ul>
+<img src="assets/images/third.png">
+<img src="assets/images/fourth.png">
+<img src="assets/images/fifth.png">
+<img src="assets/images/sixth.png">
+
+<h2>Deployment</h2>
+<hr>
+<ul>
+<li>This pages are deployed in git hub pages and published </li>
+<li> site link : https://neerojstha.github.io/Funtastic-Game/</li>
+</ul>
+
+
+<h2>Credits</h2>
+<hr>
+<ul>
+<li>This pages html, css and javascript codes are inspired from love Maths project.</li>
+<li>Special thanks to my mentor Rahul Lakhanpal for mentoring me during this project.</li></ul>
 
