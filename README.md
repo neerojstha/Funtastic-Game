@@ -1,5 +1,5 @@
-Introduction
-The Funtastic Game is web based game built with HTML, CSS and JavaScript. it is mathmatical fun game for fun.
+<h2>Introduction</h2>
+The Funtastic Game is web based game built with HTML, CSS and JavaScript. it is mathmatical  Game for fun.
 <img src="assets/images/first.png">
 
 <h2>Table of Contents</h2>
@@ -47,9 +47,8 @@ user should be able to play game with their devices.
 <br>
 user would be able to play in mobile devices.
 
-<ul>
-<li>Skeleton Plane</li>
-<ul>
+<h2>Skeleton Plane</h2>
+<hr>
 <img src="assets/images/eight).png">
 <li>I used baslamic wireframe to designed this website.</li>
 
@@ -57,8 +56,8 @@ user would be able to play in mobile devices.
 <ul>
 <li>Surface Design</li>
 <ul>
-<li>Nice and attractive hero image would be added.</li>
-<li>light cover text added with the mantra brand name.</li>
+<li>Nice and attractive pink color background.</li>
+<li>colorful icons with small logo.</li>
 <li>final outcome of the website design is satisfactory.</li></ul></ul>
 
 
@@ -66,14 +65,14 @@ user would be able to play in mobile devices.
 <hr>
 <ul>
 <li>would better to use timer in future.</li>
-<li>i would like to use flexboxfroggy to design better layout.</li>
+<li>would like to use flexboxfroggy to design better layout.</li>
 <li>Quiz app using javascript .</li></ul>
 <h2>Performance/Testing</h2>
 <hr>
 <ul>
 <li>This pages tested in different browers such as chrome, firefox, safari and ms egde and working perfectly fine.</li>
-<li>pages are clear, good looking and user friendly.</li>
-<li>form section is userfriendly and all section required requested information to complete booking system.</li>
+<li>Good looking and user friendly.</li>
+<li>Interactive and userfriendly site.</li>
 </ul>
 <img src="assets/images/third.png">
 <img src="assets/images/fourth.png">
